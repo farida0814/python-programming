@@ -1,0 +1,7 @@
+s=input("enter the string:")
+str=" "
+for i in s:
+    str=i+str
+    print("original string is:",s)
+    print("the mirrored string is:",str)
+
